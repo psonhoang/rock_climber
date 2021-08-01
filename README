@@ -1,0 +1,11 @@
+Author: Hoang Son Pham
+CNET ID: hoangsp
+
+*PS: 
+- For the climb executable:
+
++ The first line will describe the initial position (LH, RH, LF, RF coordinates)
+and the following lines will be the series of moves (e.g, LF 100 20) to reach to the last hold.
+
++ If the last hold is already reached in the initial position, the line after the first line
+describing the initial position will simply say "Already reached last hold in initial position!"
